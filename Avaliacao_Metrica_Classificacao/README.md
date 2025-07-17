@@ -39,7 +39,7 @@ Clique no link abaixo para abrir o notebook diretamente no Colab:
 
 ### 2. Download e execução local
 
-1. Faça o download do arquivo [`Metricas_Avaliacao_Binaria.ipynb`](Metricas_Avaliacao_Binaria.ipynb) diretamente neste repositório.
+1. Faça o download do arquivo [`Avaliacao_Metrica_Classificacao.ipynb`](Avaliacao_Metrica_Classificacao.ipynb) diretamente neste repositório.
 2. Execute localmente com o Jupyter Notebook ou outro ambiente compatível com `.ipynb`.
 3. Certifique-se de ter as seguintes bibliotecas instaladas:
    - `numpy`
