@@ -31,21 +31,16 @@ Essas métricas são fundamentais para avaliar o desempenho de classificadores, 
 
 Você pode executar este projeto de duas maneiras:
 
-### 1. Via Google Colab (recomendado)
+### 1. Via Google Colab
 
 Clique no link abaixo para abrir o notebook diretamente no Colab:
 
 [🔗 Abrir no Google Colab](https://colab.research.google.com/drive/10sIkBK5Chy_nSMmhgESO-0ctYt_-Z_Lg?usp=sharing)
 
-### 2. Download e execução local
+### 2. Diretamente neste repositório
 
-1. Faça o download do arquivo [`Avaliacao_Metrica_Classificacao.ipynb`](Avaliacao_Metrica_Classificacao.ipynb) diretamente neste repositório.
-2. Execute localmente com o Jupyter Notebook ou outro ambiente compatível com `.ipynb`.
-3. Certifique-se de ter as seguintes bibliotecas instaladas:
-   - `numpy`
-   - `pandas`
-   - `matplotlib`
-   - `seaborn`
+1. Através do arquivo [`Avaliacao_Metrica_Classificacao.ipynb`](Avaliacao_Metrica_Classificacao.ipynb) diretamente neste repositório.
+
 
 ---
 
